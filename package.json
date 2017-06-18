@@ -1,0 +1,24 @@
+{
+  "name": "decentralized-p2p-signal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldurback/Decentralized-P2P-Signal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldurback/Decentralized-P2P-Signal/issues"
+  },
+  "homepage": "https://github.com/ldurback/Decentralized-P2P-Signal#readme"
+}
